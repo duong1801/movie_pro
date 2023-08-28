@@ -1,6 +1,6 @@
 FROM php:8.1-fpm-alpine
 
-WORKDIR /var/www/html:rw
+WORKDIR /var/www/html
 
 RUN apk update && apk add --no-cache \
     freetype \
