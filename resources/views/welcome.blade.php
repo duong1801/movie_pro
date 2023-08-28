@@ -122,7 +122,7 @@
                 </div>
 
                 <div class="flex justify-center mt-16 px-0 ">
-                   <h2>Deploy Laravel Application Using Docker By <a href="https://www.facebook.com/BlueSky.18011/">BlueSky</a></h2>
+                   <h2>Deploy Laravel Application Using Docker By <a class="text-primary" href="https://www.facebook.com/BlueSky.18011/">BlueSky</a></h2>
                 </div>
             </div>
         </div>
