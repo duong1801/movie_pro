@@ -37,7 +37,7 @@ services:
             context: .
             dockerfile: Dockerfile
         container_name: "php_movie_pro"
-        user: "${UID:-1000}:${GID:-1000}"
+
         volumes:
             - "./:/var/www/html"
             - "./php.ini:/usr/local/etc/php/php.ini"
