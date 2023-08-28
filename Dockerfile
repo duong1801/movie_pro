@@ -13,9 +13,6 @@ RUN docker-php-ext-configure gd \
     --with-freetype --with-jpeg
 RUN docker-php-ext-install pdo pdo_mysql gd exif
 
-COPY . /var/www/html
-
-COPY ./.env /var/www/html/.env
 
 RUN docker-php-ext-enable exif
 

@@ -24,9 +24,9 @@ services:
         ports:
             - "3307:3306"
         environment:
-            MYSQL_DATABASE: techschool
-            MYSQL_USER: homestead
-            MYSQL_PASSWORD: homestead
+            MYSQL_DATABASE: movie_pro
+            MYSQL_USER: movie_pro
+            MYSQL_PASSWORD: 123456@
             MYSQL_ROOT_PASSWORD: secret
             SERVICE_TAGS: dev
             SERVICE_NAME: mysql
