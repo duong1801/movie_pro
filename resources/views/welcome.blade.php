@@ -121,7 +121,7 @@
                     </div>
                 </div>
 
-                <div class="flex justify-center mt-16 px-0 sm:items-center sm:justify-between">
+                <div class="flex justify-center mt-16 px-0 ">
                    <h2>Deploy Laravel Application Using Docker By BlueSky</h2>
                 </div>
             </div>
