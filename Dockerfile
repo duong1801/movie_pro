@@ -18,7 +18,6 @@ RUN docker-php-ext-enable exif
 
 COPY . /var/www/html
 
-RUN find /var/www/html/ -type d -exec chmod 755 {} \;
-
+RUN chown root:bind /var/www/html ; chmod g+rwx /var/www/html
 # Install Composer
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
