@@ -10,7 +10,7 @@
         <link rel="preconnect" href="https://fonts.bunny.net">
 
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
-        <meta property="og:title"              content="Pỏn hub VN" />
+        <meta property="og:title"              content="Thay đổi nền công nghiệp không khói" />
         <meta property="og:type" content="article" />
         <meta property="og:description"        content="Thay đổi nền công nghiệp không khói" />
         <meta property="og:image"              content="https://www.facebook.com/photo/?fbid=2735031460160106&set=a.1425023594494239" />
