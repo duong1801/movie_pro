@@ -7,8 +7,8 @@
         <title>Pỏnhub VN</title>
 
         <!-- Fonts -->
-        <link rel="preconnect" href="https://kynguyenlamdep.com/wp-content/uploads/2022/06/anh-gai-xinh-cuc-dep.jpg">
-        <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+        <link rel="preconnect" href="https://fonts.bunny.net">
+        <link rel="icon" type="image/x-icon" href="https://kynguyenlamdep.com/wp-content/uploads/2022/06/anh-gai-xinh-cuc-dep.jpg">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
         <meta property="og:title"              content="Thay đổi nền công nghiệp không khói" />
         <meta property="og:type" content="article" />
