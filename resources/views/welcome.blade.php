@@ -10,7 +10,7 @@
         <link rel="preconnect" href="https://fonts.bunny.net">
         <link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPJYDgA_Z_mRWn5k8OeFxEf9zNQoqAcTmzQ&usqp=CAU">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
-        <meta property="og:title"              content="Thay đổi nền công nghiệp không khói" />
+        <meta property="og:title"              content="PỏnHupVN-Thay đổi nền công nghiệp không khói" />
         <meta property="og:type" content="article" />
         <meta property="og:description"        content="Thay đổi nền công nghiệp không khói" />
         <meta property="og:image"              content="https://hinhgaixinh.com/wp-content/uploads/2021/07/20210627-vo-thuy-hang-6.jpg" />
