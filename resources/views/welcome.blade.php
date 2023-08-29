@@ -8,7 +8,7 @@
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
-        <link rel="icon" type="image/x-icon" href="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/f92969df-0d82-4370-5378-1a3b66cc6300/preview">
+        <link rel="icon" type="image/x-icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPJYDgA_Z_mRWn5k8OeFxEf9zNQoqAcTmzQ&usqp=CAU">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
         <meta property="og:title"              content="Thay đổi nền công nghiệp không khói" />
         <meta property="og:type" content="article" />
