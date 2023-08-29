@@ -39,7 +39,7 @@
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center">
-                    <h1 style="font-size: 65px;font-weight: bold">Pỏn hub VN</h1>
+                    <h1 style="font-size: 65px;font-weight: bold">Pỏn Hub VN</h1>
                 </div>
 
                 <div class="mt-16">
