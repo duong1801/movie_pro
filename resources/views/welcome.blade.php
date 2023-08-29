@@ -8,7 +8,7 @@
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
-        <link rel="icon" type="image/x-icon" href="https://w7.pngwing.com/pngs/578/835/png-transparent-pornhub-vertical-logo.png">
+        <link rel="icon" type="image/x-icon" href="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/f92969df-0d82-4370-5378-1a3b66cc6300/preview">
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
         <meta property="og:title"              content="Thay đổi nền công nghiệp không khói" />
         <meta property="og:type" content="article" />
