@@ -27,12 +27,6 @@ class Handler extends ExceptionHandler
             //
         });
 
-        $this->renderable(function (\Illuminate\Auth\AuthenticationException $e, $request) {
-            if ($request->is('api/*')) {
-                return response()->json([
-                    'message' => 'deo co quyen '
-                ], 401);
-            }
-        });
+      
     }
 }
